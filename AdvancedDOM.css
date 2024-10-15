@@ -1,0 +1,26 @@
+/* Styling the body part */
+.body {
+    text-align: center;
+    color: rebeccapurple;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* Styling the input text*/
+#input-text{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+/* Styling the add button*/
+#add-button{
+    background-color: green;
+    color: white;
+    font: bolder;
+    border: none;
+    
+}
+/*Styling the add button to add hover*/
+#add-button:hover{
+    color: green;
+    cursor: pointer;
+}
